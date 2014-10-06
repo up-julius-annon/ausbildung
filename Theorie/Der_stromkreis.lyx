@@ -1,0 +1,303 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass paper
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement h
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Der Stromkreis
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename ../../ausbildung/Betriebsordner/Theorie/bilder/stromkreis_spannung.svg
+	scale 400
+
+\end_inset
+
+
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Geöffneter Stromkreis
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+(es findet kein Stromfluss statt), da keine leitende Verbindung vorhanden
+ ist )
+\end_layout
+
+\begin_layout Plain Layout
+Spannung (U) = Volt (Einheit)
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Merke: liegt nur an elektrisch leidenden Gegenständen an.
+\end_layout
+
+\begin_layout Standard
+Arten und Formen von Spannungen
+\end_layout
+
+\begin_layout Standard
+DC UC AC oder oder oder Direct Current Universal Current Alternating Current
+ Gleichstrom Mischstrom Wechselstrom
+\end_layout
+
+\begin_layout Standard
+Der Elektrische Widerstand
+\end_layout
+
+\begin_layout Standard
+Spannungsabfall Verengung Spannnungsanstieg Die Baustelle (Widerstand) setzt
+ den Stromfluss (Autos) ein Hindernis entgegen und bremst so den Stromfluss.
+ An dem Widerstand (Baustelle) entsteht Wärme (Reibungshitze), diese entstandene
+ Wärme nennt man Verlustleistung.
+ Da sich die Verlustleistung aus Strom und Spannung zusammen setzt.
+ Verursacht jeder Widerstand ein Spannungsabfall.
+\end_layout
+
+\begin_layout Standard
+Arten von Widerständen
+\end_layout
+
+\begin_layout Standard
+Kohleschichtwiderstände (Standard)
+\end_layout
+
+\begin_layout Standard
+Kohleschichtwiderstände sind die Standardwiderstände, sie werden in der
+ Elektronik ammeisten verbaut, da sie sehr günstig sind.
+\end_layout
+
+\begin_layout Standard
+Nachteil: sehr große Tolleranzen
+\end_layout
+
+\begin_layout Standard
+Aufbau:
+\end_layout
+
+\begin_layout Standard
+Metallschichtwiderstände:
+\end_layout
+
+\begin_layout Standard
+Metallschichtwiderstände findet man überall dort wo ein hoher Qualitätsstandart
+ gefordert wird.
+\end_layout
+
+\begin_layout Standard
+Aufbau:
+\end_layout
+
+\begin_layout Standard
+Isolationsschicht hat die Farbe Blau bis Hellblau Vorteil: der Metallschichtwide
+rstand kann bei gleicher Masse mehr Verlustleistung vertragen.
+\end_layout
+
+\begin_layout Standard
+Drahtwiderstände
+\end_layout
+
+\begin_layout Standard
+Drahtwiderstände werden überall dort eingesetzt wo hohe Verlustwiderstände
+ einstehen.
+\end_layout
+
+\begin_layout Standard
+Nachteil: streut Magnetfeld (Induktivität !!!) aufgrund der Bauart.
+ Sehr schlecht für Hoch-Frequenz Technik
+\end_layout
+
+\begin_layout Standard
+Schaltzeichen und Einheiten der Widerständen
+\end_layout
+
+\begin_layout Standard
+Die Widerstandswerte werden in Ohm angegeben
+\end_layout
+
+\begin_layout Standard
+1mΩ = 0,001Ω Milliohm 1Ω = 1Ω Ohm 1kΩ = 1000Ω Kiloohm 1MΩ = 1.000.000Ω Megaohm
+\end_layout
+
+\begin_layout Standard
+Ohmisches Gesetz
+\end_layout
+
+\begin_layout Standard
+Formelzeichen Einheit
+\end_layout
+
+\begin_layout Standard
+Spannung U Volt Strom I Amper Widerstand R Ω Ohm
+\end_layout
+
+\begin_layout Standard
+Spannung Widerstand Stromfluss
+\end_layout
+
+\begin_layout Standard
+U = R * I R = U / I I = U / R (Grundformel)
+\end_layout
+
+\begin_layout Standard
+Leistungsberechnung
+\end_layout
+
+\begin_layout Standard
+Formelzeichen Einheit
+\end_layout
+
+\begin_layout Standard
+Spannung U Volt Strom I Amper Leistung P Watt
+\end_layout
+
+\begin_layout Standard
+Die elektrsche Leistung P, die in einem Bauelement umgesetzt wird, ist bei
+ Gleichstrom das Produkt der Elektronischen Spannung U und der Stromstärke
+ I.
+\end_layout
+
+\begin_layout Standard
+P = U * I Wegen des Ohmischen Gesetzes kann man U oder I auch anders ausdrücken.
+\end_layout
+
+\begin_layout Standard
+P = I² * R bzw P = U²/R Die Reihenschaltung
+\end_layout
+
+\begin_layout Standard
+Die Teilspannungen einer Schaltung ergeben die Gesammtspannung.
+\end_layout
+
+\begin_layout Standard
+I = IR1 = IR2
+\end_layout
+
+\begin_layout Standard
+Rgs = R1 + R2
+\end_layout
+
+\begin_layout Standard
+Die Parallelschaltung
+\end_layout
+
+\begin_layout Standard
+IGs = I1 + I2 Ugs = U1 = U2
+\end_layout
+
+\begin_layout Standard
+In einer Parallelschaltung liegt an allen Widerständen die gleiche Spannung
+ an.
+\end_layout
+
+\begin_layout Standard
+Der Gesamtstrom teilt sich am Verzweigungspunkt der Widerstände in mehrere
+ Teilströme auf.
+ Die Summe der Teilströme ist gleich der Summe des Gesamtstromes.
+\end_layout
+
+\begin_layout Standard
+Das Ergebnis des gesamten Widerstandes bei einer Parallelschaltung muss
+ immer kleiner sein als der kleinste Einzelwiderstandswert.
+\end_layout
+
+\begin_layout Standard
+Rgs = 1/R1 + 1/R2 
+\end_layout
+
+\end_body
+\end_document

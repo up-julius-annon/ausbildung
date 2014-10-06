@@ -1,0 +1,744 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass paper
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\float_placement h
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Der Stromkreis
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "c"
+hor_pos "c"
+has_inner_box 1
+inner_pos "s"
+use_parbox 0
+use_makebox 0
+width "40col%"
+special "none"
+height "12pheight%"
+height_special "none"
+status open
+
+\begin_layout Plain Layout
+Geöffneter Stromkreis
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename ausbildung/Betriebsordner/Theorie/bilder/stromkreis_spannung.svg
+	scale 250
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "30col%"
+special "none"
+height "14pheight%"
+height_special "none"
+status open
+
+\begin_layout Plain Layout
+(es findet kein Stromfluss statt), da keine leitende Verbindung vorhanden
+ ist )
+\end_layout
+
+\begin_layout Plain Layout
+Spannung (U) = Volt (Einheit)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Box Frameless
+position "b"
+hor_pos "c"
+has_inner_box 1
+inner_pos "s"
+use_parbox 0
+use_makebox 0
+width "40col%"
+special "none"
+height "2pheight%"
+height_special "none"
+status open
+
+\begin_layout Plain Layout
+Geschlossener Stromkreis
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename ausbildung/Betriebsordner/Theorie/bilder/stromkreis_strom.svg
+	scale 250
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "s"
+use_parbox 0
+use_makebox 0
+width "30col%"
+special "none"
+height "14pheight%"
+height_special "none"
+status open
+
+\begin_layout Plain Layout
+I (Strom) =A(Ampere [Einheit]) Die Lampe leuchtet da der Stromkreis geschlossen
+ ist.
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Merke: Spannung liegt nur an elektrisch leidenden Gegenständen an.
+\end_layout
+
+\begin_layout Section*
+\paragraph_spacing other 4
+Arten und Formen von Spannungen 
+\end_layout
+
+\begin_layout Standard
+\paragraph_spacing other 4
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "30col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename ausbildung/Betriebsordner/Theorie/bilder/DC.svg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+DC
+\end_layout
+
+\begin_layout Plain Layout
+oder Direct Current
+\end_layout
+
+\begin_layout Plain Layout
+Gleichstrom
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "30col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename ausbildung/Betriebsordner/Theorie/bilder/UC.svg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+UC
+\end_layout
+
+\begin_layout Plain Layout
+oder
+\end_layout
+
+\begin_layout Plain Layout
+Universal Current
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "30col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename ausbildung/Betriebsordner/Theorie/bilder/AC.svg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+AC
+\end_layout
+
+\begin_layout Plain Layout
+oder Alternating Current
+\end_layout
+
+\begin_layout Plain Layout
+Wechselstrom
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Section*
+Der Elektrische Widerstand
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Verhalten Spannung/Widerstand
+\end_layout
+
+\end_inset
+
+
+\begin_inset Graphics
+	filename ausbildung/Betriebsordner/Theorie/bilder/elektrischer_widerstand_verhalten_spannung.svg
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "20col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+Spannungsabfall 
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "20col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+Verengungsstau
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "20col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\align center
+Spannungsanstieg
+\end_layout
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Die Baustelle (Widerstand) setzt den Stromfluss (Autos) ein Hindernis entgegen
+ und bremst so den Stromfluss.
+ An dem Widerstand (Baustelle) entsteht Wärme (Reibungshitze), diese entstandene
+ Wärme nennt man Verlustleistung.
+ Da sich die Verlustleistung aus Strom und Spannung zusammen setzt.
+ Verursacht jeder Widerstand ein Spannungsabfall.
+\end_layout
+
+\begin_layout Part*
+Arten von Widerständen
+\end_layout
+
+\begin_layout Standard
+\begin_inset Wrap figure
+lines 10
+placement O
+overhang 0in
+width "50col%"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\series bold
+Kohleschichtwiderstände
+\series default
+ (Standard)
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "30col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename ausbildung/Betriebsordner/Theorie/bilder/Kohleschicht_Widerstand.svg
+	scale 300
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Aufbau:
+\end_layout
+
+\begin_layout Enumerate
+Anschlusskappen
+\end_layout
+
+\begin_layout Enumerate
+Keramikkoerper
+\end_layout
+
+\begin_layout Enumerate
+Kohleschicht
+\end_layout
+
+\begin_layout Enumerate
+Isolationslack
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "s"
+use_parbox 0
+use_makebox 0
+width "30col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Description
+
+\shape italic
+Kohleschichtwiderstände
+\shape default
+ sind die Standardwiderstände, sie werden in der Elektronik ammeisten verbaut,
+ da sie sehr günstig sind.
+\end_layout
+
+\begin_layout Quote
+NACHTEIL: sehr große Tolleranzen
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Wrap figure
+lines 30
+placement O
+overhang 0in
+width "50col%"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\series bold
+Metallschichtwiderstände:
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "30col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename ausbildung/Betriebsordner/Theorie/bilder/Metallschicht_Widerstand.svg
+	scale 300
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Aufbau:
+\end_layout
+
+\begin_layout Enumerate
+Anschlusskappen
+\end_layout
+
+\begin_layout Enumerate
+Keramikkoerper
+\end_layout
+
+\begin_layout Enumerate
+Kohleschicht
+\end_layout
+
+\begin_layout Enumerate
+Isolationslack
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "s"
+use_parbox 0
+use_makebox 0
+width "50col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Description
+
+\shape italic
+Metallschichtwiderstände findet man überall dort wo ein hoher Qualitätsstandart
+ gefordert wird.
+\end_layout
+
+\begin_layout Description
+Isolationsschicht hat die Farbe Blau bis Hellblau 
+\end_layout
+
+\begin_layout Quote
+VORTEIL: der Metallschichtwiderstand kann bei gleicher Masse mehr Verlustleistun
+g vertragen.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage pagebreak
+\end_inset
+
+
+\begin_inset Wrap figure
+lines 30
+placement o
+overhang 30pheight%
+width "100col%"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Kohleschichtwiderstände (Standard)
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "t"
+use_parbox 0
+use_makebox 0
+width "30col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Plain Layout
+\begin_inset Graphics
+	filename ausbildung/Betriebsordner/Theorie/bilder/Kohleschicht_Widerstand.svg
+	scale 300
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+Aufbau:
+\end_layout
+
+\begin_layout Enumerate
+Anschlusskappen
+\end_layout
+
+\begin_layout Enumerate
+Keramikkoerper
+\end_layout
+
+\begin_layout Enumerate
+Kohleschicht
+\end_layout
+
+\begin_layout Enumerate
+Isolationslack
+\end_layout
+
+\end_inset
+
+
+\begin_inset Box Frameless
+position "t"
+hor_pos "c"
+has_inner_box 1
+inner_pos "s"
+use_parbox 0
+use_makebox 0
+width "30col%"
+special "none"
+height "1in"
+height_special "totalheight"
+status open
+
+\begin_layout Description
+
+\shape italic
+Kohleschichtwiderstände
+\shape default
+ sind die Standardwiderstände, sie werden in der Elektronik ammeisten verbaut,
+ da sie sehr günstig sind.
+\end_layout
+
+\begin_layout Quote
+NACHTEIL: sehr große Tolleranzen
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document

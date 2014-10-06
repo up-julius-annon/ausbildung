@@ -1,0 +1,374 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass paper
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Luftfahrzeugstecker
+\end_layout
+
+\begin_layout SubTitle
+Wir unterscheiden bei den Lfzs zwischen Buchse und Stecker, es muss stets
+ vorher geklärt werden ob man Pins oder Socket benötigt.
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Pin
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status collapsed
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Socket
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Enumerate
+Zugentlastung 
+\end_layout
+
+\begin_layout Enumerate
+Rendelverschraubung (Verriegelung) 
+\end_layout
+
+\begin_layout Enumerate
+Steckerbuchse
+\end_layout
+
+\begin_layout Section
+Vorbereitung des Lfzs für die Bestückung
+\end_layout
+
+\begin_layout Subsection
+Zugentlastung entfernen
+\end_layout
+
+\begin_layout Standard
+Die Zugentlastung schützt die Leitung (Kontakte) vor mechanischer Belastung
+ , zusätzlich versiegelt sie die Öffnung Umweltdicht.
+\end_layout
+
+\begin_layout Subsection
+Verarbeitung von Crimpes und Sockets
+\end_layout
+
+\begin_layout Subsubsection
+Benötigte Werkzeuge: 
+\end_layout
+
+\begin_layout Itemize
+Crimpzange mit passenden Aufsatz (Blau) 
+\end_layout
+
+\begin_layout Itemize
+Kabelschneider 
+\end_layout
+
+\begin_layout Itemize
+Abisolierzange 
+\end_layout
+
+\begin_layout Itemize
+für die Crimpzange eine Überprüfenungslehre 
+\end_layout
+
+\begin_layout Itemize
+Einpin / Auspinwerkzeug
+\end_layout
+
+\begin_layout Section
+Einrichtung der Crimpzange 
+\end_layout
+
+\begin_layout Subsection
+den richten Crimpaufsatz raus suchen (Vorschrift) 
+\end_layout
+
+\begin_layout Itemize
+Kontaktgröße
+\end_layout
+
+\begin_layout Itemize
+Kabelgröße
+\end_layout
+
+\begin_layout Itemize
+Crimptiefe 
+\end_layout
+
+\begin_layout Subsection
+Montieren des Crimpaufsatzes:
+\end_layout
+
+\begin_layout Itemize
+Crimpzange komplett öffnen
+\end_layout
+
+\begin_layout Itemize
+Crimpaufsatz mit Crimpzange verschrauben 
+\end_layout
+
+\begin_layout Itemize
+richtige Einstellungen vornehmen ( den Kabelquerschnitt wählen) rot (AWD
+ 18-20)
+\end_layout
+
+\begin_layout Itemize
+Crimptiefe einstellen (Wire Size)
+\end_layout
+
+\begin_layout Subsection
+Überprüfung der Zange: 
+\end_layout
+
+\begin_layout Paragraph
+benötigtes Werkzeug (GONOGO)
+\end_layout
+
+\begin_layout Itemize
+Zange komplett schließen und geschlossen halten, dann mit der roten Seite
+ (NOGO) des GONOGO versuchen in die Crimpseite zu stechen.
+ 
+\end_layout
+
+\begin_layout Description
+!darf nicht rein rutschen!
+\end_layout
+
+\begin_layout Itemize
+Danach mit der grünen Seite (GO) rein rutschen lassen.
+\end_layout
+
+\begin_layout Description
+!muss gehen!
+\end_layout
+
+\begin_layout Quotation
+Erst wenn dieser Test erfolgreich war darf die Zange verwendet werden.
+ 
+\end_layout
+
+\begin_layout Subsection
+Vorbereitung der Leitung:
+\end_layout
+
+\begin_layout Itemize
+eine Leitung abisolieren 
+\end_layout
+
+\begin_layout Itemize
+die benötigte Länge ermitteln
+\end_layout
+
+\begin_layout Description
+Bei der Abisolierung, darauf achten das die Adern im Prüfloch zu sehen ist
+ und er Isolationsabstand stimmt.
+\end_layout
+
+\begin_layout Itemize
+den Pin oder Socket in die Zange einführen
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement H
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Crimpzange(Luftfahrtzeugstecker)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\align right
+Pin auf der Seite die nur ein Loch hat einsetzen!
+\end_layout
+
+\begin_layout Standard
+\align right
+Der Goldfarbene Kontakt für Kabelaufnahme muss nach oben zeigen
+\end_layout
+
+\begin_layout Itemize
+Das Kabel in Kontakt einführen und in Richtung der Crimpzange mittig halten,
+ dann Zange vollständig zudrücken.
+ 
+\end_layout
+
+\begin_deeper
+\begin_layout Description
+Nach der Crimpung das Kabel entnehmen und eine Sichtprüfung durchführen
+ (im Prüfloch müssen die einzelnen Adern zu sehen sein ), der Kontakt darf
+ nicht verformt sein, die Crimpung muss vollständig sein (4-Punktverbindung),
+ nicht eingerissen.
+\end_layout
+
+\end_deeper
+\begin_layout Subsection
+Ein- und Auspinnen
+\end_layout
+
+\begin_layout Subsubsection
+Werkzeug: 
+\end_layout
+
+\begin_layout Itemize
+das richtige Ein- und Ausbauwerkzeug aus der Vorschrift ermitteln 
+\end_layout
+
+\begin_layout Itemize
+rote Seite (INSERT) zum einbauen 
+\end_layout
+
+\begin_layout Enumerate
+Ader in die Kerbe des Einbauwerkzeuges legen bis Sie ein klickt und zum
+ Kontakt vorschieben.
+ 
+\end_layout
+
+\begin_layout Enumerate
+Kontakt mit Werkzeug vorsichtig bis zum Anschlag rein schieben (klickt leicht).
+\end_layout
+
+\begin_layout Description
+Kontakt darf nicht mehr raus zuziehen sein, Kontakte müssen alle gleichlang
+ im Stecker sein
+\end_layout
+
+\begin_layout Quote
+Merke: nicht belegte Anschlüsse müssen mit einem Kontakt und Blindstopfen
+ versehen werden
+\end_layout
+
+\begin_layout Subsection
+Zusammenbau des Steckers:
+\end_layout
+
+\begin_layout Itemize
+Zugentlastung auf dem Stecker anbringen
+\end_layout
+
+\end_body
+\end_document
