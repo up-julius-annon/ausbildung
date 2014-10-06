@@ -1,0 +1,257 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass paper
+\use_default_options true
+\maintain_unincluded_children false
+\language ngerman
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 1cm
+\topmargin 1cm
+\rightmargin 1cm
+\bottommargin 1cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language german
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Title
+Montage von Ringkernschuhen
+\end_layout
+
+\begin_layout Section
+Vorbereitung:
+\end_layout
+
+\begin_layout Subsection
+Den richtigen Ringkernschuh zum passenden Kabel suchen ( rot für AWD 20)
+\end_layout
+
+\begin_layout Subsection
+Abisolierlänge bestimmen
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Ringkernschuh
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Quote
+Achtung: Isolation muss sich mit in Rinkernschuh befinden.
+\end_layout
+
+\begin_layout Section
+Vorbereitung der Crimpzange:
+\end_layout
+
+\begin_layout Subsection
+richtige Crimpeinsätze wählen (roter Kabelschuh roter Punkt!) 
+\end_layout
+
+\begin_layout Subsection
+einsetzen des Crimpeinsatzes / ausrichten 
+\end_layout
+
+\begin_layout Subsection
+einlegen des Crimpfußes 
+\end_layout
+
+\begin_layout Subsection
+crimpen
+\end_layout
+
+\begin_layout Section
+Kontrolle der Crimpung:
+\end_layout
+
+\begin_layout Quote
+Nach der Crimpung muss eine Sichtkontrolle erfolgen
+\end_layout
+
+\begin_layout Subsection
+auf der Isolierung müssen drei Punkte sichtbar sein.
+ 
+\end_layout
+
+\begin_layout Subsection
+bei den Ringkernschuhen müssen die Adern vorne sichtbar sein 
+\end_layout
+
+\begin_layout Subsection
+es darf keine Verformung des Anschlusses sein 
+\end_layout
+
+\begin_layout Subsection
+Crimpung des Kelches überprüfen
+\end_layout
+
+\begin_layout Section
+Montage auf der Bolzenleiste
+\end_layout
+
+\begin_layout Standard
+\begin_inset Float figure
+placement h
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+Bolzenleiste(Verteiler)
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+Benötigte Werkzeuge: 
+\end_layout
+
+\begin_layout Itemize
+Drehmomentschlüssel 
+\end_layout
+
+\begin_layout Itemize
+Langnuss 
+\end_layout
+
+\begin_layout Subsection
+Benötigtes Verbrauchsmaterial: 
+\end_layout
+
+\begin_layout Itemize
+Mutter 
+\end_layout
+
+\begin_layout Itemize
+Unterlegscheibe 
+\end_layout
+
+\begin_layout Itemize
+das Vorbereitete Anschlusskabel
+\end_layout
+
+\begin_layout Subsection
+Montage:
+\end_layout
+
+\begin_layout Standard
+Beim aufsetzen des Ringkernschuhes auf den Bolzen, ist darauf zu achten,
+ dass die Kontrollpunkte der Crimpung von oben zu sehen sind.
+ 
+\end_layout
+
+\begin_layout Subsubsection
+Die Unterlegscheibe auflegen.
+\end_layout
+
+\begin_layout Quote
+Achtung: die Mutter mit geeignetem Anzug fest ziehen (Drehmomentschlüssel),
+ denAnzugswert laut Vorschrift ermitteln.
+\end_layout
+
+\begin_layout Subsection
+Ausrichten des Ringkernschuhes: 
+\end_layout
+
+\begin_layout Standard
+nach dem festziehen der Mutter, ist darauf zu achten das der Ringkernschuh,
+ an einem Kunststoffbolzen anliegt.
+ Die Anlegeseite muss so gewählt werden, dass sich bei mechanischer Belastung
+ des Kabelschuhs sich die Mutter nicht lösen kann.
+ 
+\end_layout
+
+\end_body
+\end_document
